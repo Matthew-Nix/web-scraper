@@ -30,6 +30,8 @@
     <Compile Include="books\books\spiders\book.py" />
     <Compile Include="books\books\spiders\__init__.py" />
     <Compile Include="books\books\__init__.py" />
+    <Compile Include="books\tests\test_book.py" />
+    <Compile Include="books\tests\__init__.py" />
     <Compile Include="venv\Lib\site-packages\attrs\converters.py" />
     <Compile Include="venv\Lib\site-packages\attrs\exceptions.py" />
     <Compile Include="venv\Lib\site-packages\attrs\filters.py" />
@@ -2408,6 +2410,7 @@
     <Folder Include="books\" />
     <Folder Include="books\books\" />
     <Folder Include="books\books\spiders\" />
+    <Folder Include="books\tests\" />
     <Folder Include="venv\" />
     <Folder Include="venv\Include\" />
     <Folder Include="venv\Lib\" />
