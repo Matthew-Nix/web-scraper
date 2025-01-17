@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b7a4287a-5a81-4040-818f-998c670f3c7b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>web_scraper.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -2402,7 +2403,6 @@
     <Compile Include="venv\Lib\site-packages\_distutils_hack\override.py" />
     <Compile Include="venv\Lib\site-packages\_distutils_hack\__init__.py" />
     <Compile Include="venv\Scripts\jp.py" />
-    <Compile Include="web_scraper.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="books\" />
